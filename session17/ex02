@@ -1,0 +1,9 @@
+//   3 vd về tên biến không hợp lệ
+  +, let 1variable
+  +, let my-variable
+  +, let class 
+
+//   3 vd về tên biến hợp lệ
+  +, let myVariable
+  +, let _myVariable
+  +, let variable1
